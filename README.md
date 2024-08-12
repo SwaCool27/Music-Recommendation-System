@@ -13,12 +13,12 @@ Installation
 
 To set up the project locally, follow these steps:
 
-    Clone the repository:
+    Clone the repository: git clone https://github.com/yourusername/Music-Recommendation-System.git
 
-    bash
+    bash: cd Music-Recommendation-System
 
-git clone https://github.com/yourusername/Music-Recommendation-System.git
-cd Music-Recommendation-System
+
+
 
 Install the required dependencies:
 
