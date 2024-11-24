@@ -1,6 +1,6 @@
 <h1>Music Genre Recognition using Deep Learning</h1>
 
-This project is a deep learning-based music genre recognition system that predicts the genre of a given music file using a pre-trained model. The system can also suggest top songs from the predicted genre using the Spotify API.
+This is a group project is a deep learning-based music genre recognition system that predicts the genre of a given music file using a pre-trained model. The system can also suggest top songs from the predicted genre using the Spotify API.
 Table of Contents
 
     Installation
